@@ -15,7 +15,7 @@ namespace SampleWebAppRajAzure.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Rajshree's pages.";
+            ViewBag.Message = "Rajshree's pages updated!!!!!";
 
             return View();
         }
